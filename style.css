@@ -27,7 +27,7 @@ body {
 
 .materia {  
     border-radius: 10px;
-    border: solid 2px white;
+    border: solid 2px rgb(0, 0, 0);
     margin-left: 10px;
     width: 100px;
     display: flex;
@@ -39,7 +39,7 @@ body {
 .namemateria {
     padding: 5px;
     font-weight: bold;
-    color: white;
+    color: rgb(0, 0, 0);
     margin: 0;
     font-size: 18px;
 }
